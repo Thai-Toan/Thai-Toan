@@ -1,0 +1,447 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: ang làm.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: centimeters
+Artboard Dimensions: 97.763 cm x 98.3912 cm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Consolas (OTF)
+Candu (OTF)
+Impact (OTF)
+Create Dream (OTF)
+Myriad Pro (OTF)
+Pink Shadow (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\admin\Pictures\camera2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 1397K, 564 by 846 pixels
+Dimensions: 426.083 by 639.124 points 
+Resolution: 95.305 by 95.305 pixels per inch
+
+
+C:\Users\admin\Pictures\camera2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 1397K, 564 by 846 pixels
+Dimensions: 426.083 by 639.124 points 
+Resolution: 95.305 by 95.305 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054650647.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1123K, 564 by 510 pixels
+Dimensions: 124.826 by 127.389 points 
+Resolution: 325.316 by 288.251 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 91.736 by 93.34 points 
+Resolution: 442.659 by 361.003 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054650647.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1123K, 564 by 510 pixels
+Dimensions: 128.816 by 128.269 points 
+Resolution: 315.242 by 286.274 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054639353.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 950K, 563 by 432 pixels
+Dimensions: 98.236 by 101.819 points 
+Resolution: 412.641 by 305.483 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054639353.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 950K, 563 by 432 pixels
+Dimensions: 94.052 by 105.839 points 
+Resolution: 430.997 by 293.88 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054639353.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 950K, 563 by 432 pixels
+Dimensions: 94.052 by 105.839 points 
+Resolution: 430.997 by 293.88 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 89.147 by 82.516 points 
+Resolution: 455.515 by 408.357 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054650647.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1123K, 564 by 510 pixels
+Dimensions: 124.826 by 127.389 points 
+Resolution: 325.316 by 288.251 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 91.736 by 93.34 points 
+Resolution: 442.659 by 361.003 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054650647.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1123K, 564 by 510 pixels
+Dimensions: 128.816 by 128.269 points 
+Resolution: 315.242 by 286.274 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054639353.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 950K, 563 by 432 pixels
+Dimensions: 98.236 by 101.819 points 
+Resolution: 412.641 by 305.483 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054639353.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 950K, 563 by 432 pixels
+Dimensions: 94.052 by 105.839 points 
+Resolution: 430.997 by 293.88 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709054639353.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 950K, 563 by 432 pixels
+Dimensions: 94.052 by 105.839 points 
+Resolution: 430.997 by 293.88 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 89.147 by 82.516 points 
+Resolution: 455.515 by 408.357 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709053671242.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1024K, 512 by 512 pixels
+Dimensions: 16.6 by 16.6 points 
+Resolution: 2220.783 by 2220.783 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051949936.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 351K, 300 by 300 pixels
+Dimensions: 17.191 by 17.191 points 
+Resolution: 1256.436 by 1256.436 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051965429.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1242K, 564 by 564 pixels
+Dimensions: 31.935 by 31.935 points 
+Resolution: 1271.6 by 1271.6 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051987594.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1231K, 563 by 560 pixels
+Dimensions: 25.348 by 25.213 points 
+Resolution: 1599.178 by 1599.178 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 136.893 by 113.592 points 
+Resolution: 296.641 by 296.641 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 225.32 by 207.02 points 
+Resolution: 180.224 by 162.767 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709053671242.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1024K, 512 by 512 pixels
+Dimensions: 16.6 by 16.6 points 
+Resolution: 2220.783 by 2220.783 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051949936.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 351K, 300 by 300 pixels
+Dimensions: 17.191 by 17.191 points 
+Resolution: 1256.436 by 1256.436 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051965429.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1242K, 564 by 564 pixels
+Dimensions: 31.935 by 31.935 points 
+Resolution: 1271.6 by 1271.6 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051987594.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1231K, 563 by 560 pixels
+Dimensions: 25.348 by 25.213 points 
+Resolution: 1599.178 by 1599.178 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 136.893 by 113.592 points 
+Resolution: 296.641 by 296.641 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1708963958176.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1031K, 564 by 468 pixels
+Dimensions: 225.32 by 207.02 points 
+Resolution: 180.224 by 162.767 pixels per inch
+
+
+C:\Users\admin\Pictures\qr.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 263K, 300 by 300 pixels
+Dimensions: 43.492 by 43.492 points 
+Resolution: 496.641 by 496.641 pixels per inch
+
+
+C:\Users\admin\Pictures\2b04e6a290346fc24345d3140a5b57bf.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 1412K, 564 by 855 pixels
+Dimensions: 49.963 by 75.741 points 
+Resolution: 812.769 by 812.769 pixels per inch
+
+
+C:\Users\admin\Pictures\qr.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 263K, 300 by 300 pixels
+Dimensions: 43.492 by 43.492 points 
+Resolution: 496.641 by 496.641 pixels per inch
+
+
+C:\Users\admin\Pictures\2b04e6a290346fc24345d3140a5b57bf.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 1412K, 564 by 855 pixels
+Dimensions: 49.963 by 75.741 points 
+Resolution: 812.769 by 812.769 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709053671242.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1024K, 512 by 512 pixels
+Dimensions: 16.161 by 16.161 points 
+Resolution: 2281.025 by 2281.025 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051949936.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 351K, 300 by 300 pixels
+Dimensions: 17.191 by 17.191 points 
+Resolution: 1256.436 by 1256.436 pixels per inch
+
+
+C:\Users\admin\Pictures\br.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 987K, 474 by 711 pixels
+Dimensions: 474 by 711 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709053671242.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1024K, 512 by 512 pixels
+Dimensions: 16.161 by 16.161 points 
+Resolution: 2281.025 by 2281.025 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051949936.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 351K, 300 by 300 pixels
+Dimensions: 17.191 by 17.191 points 
+Resolution: 1256.436 by 1256.436 pixels per inch
+
+
+C:\Users\admin\Pictures\br.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 987K, 474 by 711 pixels
+Dimensions: 474 by 711 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709053671242.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1024K, 512 by 512 pixels
+Dimensions: 17.693 by 17.693 points 
+Resolution: 2083.507 by 2083.507 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051949936.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 351K, 300 by 300 pixels
+Dimensions: 17.191 by 17.191 points 
+Resolution: 1256.436 by 1256.436 pixels per inch
+
+
+C:\Users\admin\Pictures\br.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 987K, 474 by 711 pixels
+Dimensions: 474 by 711 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709053671242.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 1024K, 512 by 512 pixels
+Dimensions: 17.693 by 17.693 points 
+Resolution: 2083.507 by 2083.507 pixels per inch
+
+
+C:\Users\admin\Downloads\Remove-bg.ai_1709051949936.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 5
+Size: 351K, 300 by 300 pixels
+Dimensions: 17.191 by 17.191 points 
+Resolution: 1256.436 by 1256.436 pixels per inch
+
+
+C:\Users\admin\Pictures\br.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 987K, 474 by 711 pixels
+Dimensions: 474 by 711 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\admin\Pictures\hp quà.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 4
+Size: 931K, 564 by 564 pixels
+Dimensions: 400.468 by 400.468 points 
+Resolution: 101.401 by 101.401 pixels per inch
